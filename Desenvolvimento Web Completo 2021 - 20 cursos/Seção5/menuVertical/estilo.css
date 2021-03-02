@@ -1,0 +1,30 @@
+ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	color: white;
+}
+
+ul a {
+	width: 200px;
+	height: 40px;
+	display: block;
+	text-decoration: none;
+	background: url(imagens/menu.png) no-repeat left;
+	line-height: 40px;
+	text-indent: 40px;
+	color: #000;
+}
+
+a:hover{
+	background-position: right;
+	color: white;
+}
+
+#comeco-menu{
+	border-radius: 10px 10px 0px 0px;
+} 
+
+#fim-menu{
+	border-radius: 0px 0px 10px 10px;
+}

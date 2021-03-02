@@ -1,0 +1,54 @@
+*{
+	font-family: sans-serif;
+}
+
+body{
+	background-image: url('imagens/fundo.png');
+}
+
+.capa{
+	background-repeat: no-repeat;
+	width: 101.2%;
+}
+
+#principal{
+	width: 70%;
+}
+
+.espaco{
+	width: 100%;
+}
+
+#menu{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+	background-color: rgb(211,213,189); 
+	width: 100%;
+	margin-bottom: 0;
+}
+
+#paragrafo{
+	background-color: rgb(252,252,236);
+	width: 100%;
+	margin-top: 0%;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#rodape{
+	text-align: center;
+}
+
+a{
+	margin-left: 10px;
+	margin-right: 10px;
+	color: rgb(110,115,129);
+}
+
+h2{
+	margin: 0px;
+	padding-top: 10px;
+	color: rgb(133,137,120);
+	font-size: 18px;
+}
